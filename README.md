@@ -1,2 +1,3 @@
-# github-demo
-A simple demo repo to show the GIT workflow
+# GitHub Resources
+
+This repo contains documents that relate to useful and common GIT commands.
